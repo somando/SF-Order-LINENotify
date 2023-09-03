@@ -1,0 +1,2 @@
+# SF-Order-LINENotify
+注文をGoogleフォームで受け付け、オーダーと会計にLINE Notifyよりメッセージを送信するGASプログラム
